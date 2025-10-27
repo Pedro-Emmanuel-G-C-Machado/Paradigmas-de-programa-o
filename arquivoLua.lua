@@ -10,3 +10,4 @@ function areaDoretangulo(base, altura)
 end
 
 print("A area do triangulo:", areaDoretangulo(x, y))
+
